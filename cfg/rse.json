@@ -1,0 +1,11 @@
+{
+	"rse-config" :
+	{
+		"rseid" : "0x0401010102030102",
+		"keytable" : "/jffs/brt/lgh.ktv",
+		"sec-policy" : "/jffs/brt/sep.sec",
+		"log-file" : "/jffs/brt/zlog.cfg",
+		"intf-name" : "br0",
+		"ppc-port" : "30000"
+	}
+}
